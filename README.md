@@ -26,14 +26,17 @@ O sistema também foi desenvolvido considerando as penalidades relacionadas à m
 
 Estrutura mecânica
 
+[Estrutura por escrito](docs/Hardware.md)
+[Fotos da estrutura](assets)
 
 Equipe
 
-
+[Organização da equipe](docs/Equipe.md)
 
 Edital
 
-
+[Regras do campeonato](docs/Regras_Campeonato.pdf)
 
 Código
 
+[Código do robô](codigo)
